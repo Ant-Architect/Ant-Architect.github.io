@@ -47,9 +47,9 @@ analytics:
 fbadmin:
 
 # Paginate
-#paginate: 6
-#paginate_path: 'page:num'
-#words_per_minute: 200
+paginate: 6
+paginate_path: 'page:num'
+words_per_minute: 200
 
 extensions:
   mermaid_enable: true
@@ -84,8 +84,8 @@ category_archive:
 sass:
   style: compressed
 
-#plugins:
-
+plugins:
+  - jekyll-paginate-v2
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
