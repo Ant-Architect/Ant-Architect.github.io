@@ -72,11 +72,11 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll (= 4.3.2)
+  jekyll (~> 4.3, >= 4.3.2)
   jekyll-paginate
-  jekyll-sass-converter (= 3.0.0)
+  jekyll-sass-converter (~> 3.0)
   jekyll-sitemap
-  sass-embedded (= 1.66.1)
+  sass-embedded (~> 1.66, >= 1.66.1)
 
 BUNDLED WITH
    2.4.19
