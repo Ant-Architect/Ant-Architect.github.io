@@ -2,6 +2,7 @@
 title: AI Generated Floor Plans
 description: 'The future of floor planning using Artificial Intelligence' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
+domain: d7057e-ai-generated-floor-plans.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://d7057e-ai-generated-floor-plans.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: # TODO: Add logo
