@@ -26,13 +26,13 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Students from D7057E # add your name
-author-pic: branding/MVM-symbol.svg # add your profile picture
+author-pic: branding/MVM-symbol.svg # add your profile picture (application picture in our case, since it links to the website)
 about-author: We are a team of 10 students who have embarked on an exciting journey to revolutionize the way we envision floor plans, with the power of artificial intelligence.
 
 # Contact links
 email: jonstn-9@student.ltu.se # Add your Email address
 phone: # Add your Phone number
-website: # Add your website
+website:  https://floorplanner.vercel.app/
 linkedin: # Add your Linkedin handle
 github: D7057E-AI-Generated-Floor-Plans # Add your Github handle
 twitter: # Add your Twitter handle
@@ -85,7 +85,7 @@ sass:
   style: compressed
 
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
