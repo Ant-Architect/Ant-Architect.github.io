@@ -1,10 +1,10 @@
 # Site settings
-title: AI Generated Floor Plans
-description: 'The future of floor planning using Artificial Intelligence' # this means to ignore newlines until "baseurl:"
+title: AntArchitect Blog
+description: 'Your AI Architect Companion' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
-domain: d7057e-ai-generated-floor-plans.github.io
+domain: ant-architect.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://d7057e-ai-generated-floor-plans.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ant-architect.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: # TODO: Add logo
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
 logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
@@ -25,16 +25,16 @@ logo-dark: # TODO: Add dark-mode logo
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Students from D7057E # add your name
+author: The AntArchitect Team # add your name
 author-pic: branding/MVM-symbol.svg # add your profile picture (application picture in our case, since it links to the website)
-about-author: We are a team of 10 students who have embarked on an exciting journey to revolutionize the way we envision floor plans, with the power of artificial intelligence.
+about-author: We are a group of 10 students who have embarked on an exciting journey to revolutionize the way we envision floor plans, with the power of artificial intelligence.
 
 # Contact links
 email: jonstn-9@student.ltu.se # Add your Email address
 phone: # Add your Phone number
 website:  https://floorplanner.vercel.app/
 linkedin: # Add your Linkedin handle
-github: D7057E-AI-Generated-Floor-Plans # Add your Github handle
+github: Ant-Architect # Add your Github handle
 twitter: # Add your Twitter handle
 bandcamp: # Add your Bandcamp username
 stackoverflow: # Add your stackoverflow account

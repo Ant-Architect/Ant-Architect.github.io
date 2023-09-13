@@ -1,5 +1,5 @@
-# GitHub Pages
-This is the GitHub page for D7057E-AI-Generated-Floor-Plans, built using the [Adam Blog 2.0](https://github.com/the-mvm/the-mvm.github.io) Jekyll theme.
+# AntArchitect Blog
+This is the blog for AntArchitect, built using the [Adam Blog 2.0](https://github.com/the-mvm/the-mvm.github.io) Jekyll theme, and hosted on GitHub Pages.
 
 ## Prerequisites
 Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and run `gem install bundler` in a terminal. This is only required for updating bundles and running the Jekyll site locally.
