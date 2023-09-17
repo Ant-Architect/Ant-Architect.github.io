@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title:  Summery of weeek 37 
+title:  Summery of week 37 
 date:   2023-09-17
 description: A summery of the week
 img: 
