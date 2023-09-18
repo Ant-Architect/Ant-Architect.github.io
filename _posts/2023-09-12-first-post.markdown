@@ -6,7 +6,7 @@ title:  First Post!
 date:   2023-09-12
 description: Welcome to our blog, where you can follow our journey as we harness AI to revolutionize floor plan design.
 img: posts/20230912/abstract-art-blur-bokeh.jpg
-tags: [announcement, ai, floor plans]
+tags: [update, ai, floor plans]
 author: Jonatan Stenlund
 github:
 mathjax: no
