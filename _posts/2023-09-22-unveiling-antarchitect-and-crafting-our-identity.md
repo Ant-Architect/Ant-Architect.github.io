@@ -5,7 +5,7 @@ show_date: true
 title:  Unveiling "AntArchitect" and Crafting Our Identity
 date:   2023-09-22
 description: We're back with exciting updates from the second week of our project. This week, we're thrilled to introduce you to our project's newfound identity and share a sneak peek at our logo concepts.
-img: posts/20230922/logos.png
+img: posts/20230922/logos-banner.png
 tags: [antarchitect, logo, update]
 author: Jonatan Stenlund
 github:
