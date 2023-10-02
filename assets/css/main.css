@@ -3,21 +3,21 @@
 /* Main Color palette and fonts */
 
 html {
-  --accent:       #DB504A;    /* accent     */
-  --accent-dark:  #4e3e51;    /* accent 2   */
-  --main:         #326273;    /* main color */
-  --main-dim:     #879dab;    /* dimmed version of main color */
-  --text:         #2B323B;
+  --accent:       #D88E00;    /* accent     */
+  --accent-dark:  #D88E00;    /* accent 2   */
+  --main:         #D88E00;    /* main color */
+  --main-dim:     #D88E00;    /* dimmed version of main color */
+  --text:         #000000;
   --grey1:        #5F5E58;
   --grey2:        #8D897C;
   --grey3:        #B4B3A7;
-  --grey4:        #DAD7D2;
+  --grey4:        #e2e0dc;
   --grey5:        #F0EFED;
   --background:   #ffffff;
   --shadow:       rgba(32,30,30,.3);
   --github:       #333;
-  --font1: 'Lora', charter, Georgia, Cambria, 'Times New Roman', Times, serif;/* body text */
-  --font2: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif; /* headers and titles   */
+  --font1: 'Roboto', sans-serif;/* body text */
+  --font2: 'Roboto', sans-serif; /* headers and titles   */
   --font1-light:      400;
   --font1-regular:    400;
   --font1-bold:       600;
@@ -27,17 +27,17 @@ html {
 }
 
 html[data-theme="dark"]  {
-  --accent:       #d14c47;    /* accent     */
-  --accent-dark:  #DBBEA1;    /* accent 2   */
-  --main:         #5F8081;    /* main color */
-  --main-dim:     #333D47;    /* dimmed version of main color */
-  --text:         #CBCCCD;
+  --accent:       #D88E00;    /* accent     */
+  --accent-dark:  #D88E00;    /* accent 2   */
+  --main:         #D88E00;    /* main color */
+  --main-dim:     #D88E00;    /* dimmed version of main color */
+  --text:         #c7c7c7;
   --grey1:        #B1B1AE;
   --grey2:        #959692;
   --grey3:        #7C7E7B;
-  --grey4:        #636564;
+  --grey4:        #e2e0dc;
   --grey5:        #3B3D40;
-  --background:   #2B323B;
+  --background:   #121212;
   --shadow:       rgba(0,0,0,.3);
   --github:       #000;
 }
@@ -581,7 +581,7 @@ svg {
           align-items: center;
 }
 .main-header .logo {
-  width: 80%;
+  width: 100px;
   position: relative;
   text-align: center;
   color:var(--main);
@@ -617,7 +617,6 @@ svg {
   display: block;
   padding: 15px 0;
   text-decoration: none;
-  text-transform: uppercase;
   font-weight: var(--font2-regular);
   font-size: 18px;
   color: var(--main);
@@ -888,7 +887,6 @@ svg.menu-icon-house {
   text-decoration: none;
   font-family: var(--font2), sans-serif;
   font-weight: var(--font2-bold);
-  text-transform: uppercase;
   color: white;
 }
 .post-card-link:hover {
@@ -1593,7 +1591,6 @@ img + small, img + br + small {
   font-family: var(--font2), sans-serif;
   font-weight: var(--font2-bold);
   text-decoration: none;
-  text-transform: uppercase;
   color: white;
   background-color: #00000099;
   padding-left: 5px;
@@ -1718,8 +1715,6 @@ img + small, img + br + small {
 .author-box .author-img {
   width: 120px;
   margin-right: 30px;
-  -webkit-border-radius: 100%;
-          border-radius: 100%;
   vertical-align: middle;
   margin-top: 30px;
 }
@@ -1793,8 +1788,6 @@ img + small, img + br + small {
 .about-header .author-image-container {
   width: 100px;
   height: 100px;
-  -webkit-border-radius: 100%;
-          border-radius: 100%;
   overflow: hidden;
   margin: 0 auto 30px;
 }
@@ -1981,7 +1974,7 @@ a.read-more:hover {
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
   .main-header .logo {
-  width: 90%;
+  width: 100px;
 }
   .main-header .logo a {
     font-size: 24px;
