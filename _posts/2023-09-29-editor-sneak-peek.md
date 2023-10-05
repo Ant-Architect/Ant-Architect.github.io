@@ -2,16 +2,16 @@
 layout: post
 read_time: true
 show_date: true
-title:  Editor Sneak Peak
+title:  Editor Sneak Peek
 date:   2023-09-29
-description: Welcome to week three of the AntArchitect journey! This time, we’d like to give you a sneak peak of our frontend solution.
+description: Welcome to week three of the AntArchitect journey! This time, we’d like to give you a sneak peek of our frontend solution.
 img: posts/20230929/editor-banner-3.png
 tags: [antarchitect, react, nextjs, threejs, update, floor plans]
 author: Jonatan Stenlund
 github:
 mathjax: no
 ---
-Welcome to week three of the AntArchitect journey! This time, we’d like to give you a sneak peak of our frontend solution: a web application built on Next.js, and using React Three Fiber (a wrapper for Three.js) for displaying 3D graphics.
+Welcome to week three of the AntArchitect journey! This time, we’d like to give you a sneak peek of our frontend solution: a web application built on Next.js, and using React Three Fiber (a wrapper for Three.js) for displaying 3D graphics.
 
 ![Editor](/assets/img/posts/20230929/editor.png)
 
