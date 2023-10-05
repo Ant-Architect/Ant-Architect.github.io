@@ -5,7 +5,7 @@ permalink: ':title:output_ext'
 domain: ant-architect.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ant-architect.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/antarchitect-yellow.png"
+logo: "/assets/img/branding/antarchitect-with-font-yellow.png"
 logo-icon: "/assets/img/branding/antarchitect-yellow.png"
 logo-icon-SEO: "/assets/img/branding/antarchitect-yellow.png" # must be a non SVG file
 
