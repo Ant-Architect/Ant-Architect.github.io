@@ -15,7 +15,7 @@ Hello, and welcome to this long awaited status update! We have been quiet the la
 
 ## A Greedy Evolutionary Algorithm
 
-The algorithm we have chosen to implement initially is a hybrid greedy and evolutionary algorithm. What we mean by this is that there is a first part that chooses an initial sequence of rooms in a greedy way, and then a second part that works in an evolutionary fashion to find the optimal sequence by repeating the greedy step. This is illustrated in the figure below (see [https://www.researchgate.net/publication/331718182_Hybrid_Evolutionary_Algorithm_applied_to_Automated_Floor_Plan_Generation](https://www.researchgate.net/publication/331718182_Hybrid_Evolutionary_Algorithm_applied_to_Automated_Floor_Plan_Generation) for reference).
+The algorithm we have chosen to implement initially is a hybrid greedy and evolutionary algorithm. What we mean by this is that there is a first part that chooses an initial sequence of rooms in a greedy way, and then a second part that works in an evolutionary fashion to find the optimal sequence by repeating the greedy step. This is illustrated in the figure below (see [this link](https://www.researchgate.net/publication/331718182_Hybrid_Evolutionary_Algorithm_applied_to_Automated_Floor_Plan_Generation) for reference).
 
 ![Greedy evolutionary algorithm](/assets/img/posts/20231102/algorithm-1.png)
 
