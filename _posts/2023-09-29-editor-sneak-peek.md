@@ -6,7 +6,7 @@ title:  Editor Sneak Peek
 date:   2023-09-29
 description: Welcome to week three of the AntArchitect journey! This time, we’d like to give you a sneak peek of our frontend solution.
 img: posts/20230929/editor-banner-3.png
-tags: [antarchitect, react, nextjs, threejs, update, floor plans]
+tags: [antarchitect, react, nextjs, threejs, update, floor plans, editor]
 author: Jonatan Stenlund
 github:
 mathjax: no
