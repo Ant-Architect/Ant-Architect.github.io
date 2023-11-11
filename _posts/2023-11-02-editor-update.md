@@ -6,7 +6,7 @@ title:  Editor Update
 date:   2023-11-02
 description: This week we give you an update regarding our editor, and the first algorithm we have implemented.
 img: posts/20231102/editor-banner.png
-tags: [antarchitect, update, editor]
+tags: [antarchitect, update, editor, ai, algorithm]
 author: Jonatan Stenlund
 github:
 mathjax: no
