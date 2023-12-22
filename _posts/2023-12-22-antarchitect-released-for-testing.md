@@ -5,7 +5,7 @@ show_date: true
 title:  AntArchitect Released For Testing
 date:   2023-12-22
 description: Welcome to the final post for AntArchitect. Thank you for being a part of our journey.
-img: posts/20231222/banner.png
+img: posts/20231222/antarchitect-larger.png
 tags: [antarchitect, update, release]
 author: Jonatan Stenlund
 github:
